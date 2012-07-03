@@ -14,3 +14,19 @@ This test should take less than an hour.  You WILL be given another (quite diffe
 
 Thank you,
 Rob Conklin 
+
+
+
+Comments by candidate
+=========
+Thanks for the test. I am forking the project and committing my tasks here. I am using first time the github. I liked the cute kitty pics on it.
+There are couple of places where we can do some more modifications.
+eg: 
+Database constraints and related code handling
+Create separate test data and class for test classes
+Using Generic for Collection if needed
+There could be more...
+
+Thanks
+Nikhil
+ 
