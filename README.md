@@ -19,15 +19,14 @@ Rob Conklin
 
 Comments by candidate
 =========
-Thanks for the test. I am forking the project and committing my tasks here. I am using first time the github. I liked the cute kitty logo and many cool feature with it.
-There are couple of places where we can do some more modifications.
-
+Thanks for the test.  I am using first time the github. I liked the cute kitty logo and many cool feature with it.  
+I am forking the assigned project and committing my tasks here. There are couple of places where we can do some more modifications.  
 eg: 
 * Database constraints and related code handling
 * Create separate test data and class for test classes
 * Using Generic for Collection if needed
 * There could be more...
 
-Thanks,
+Thanks,  
 Nikhil
  
